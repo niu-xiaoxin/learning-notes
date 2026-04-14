@@ -15,7 +15,7 @@ learning-notes/
 ## 笔记列表
 
 ### 深度学习与AI
-- [Karpathy micrograd 课程完整笔记](深度学习与AI/Karpathy%20micrograd%20课程完整笔记（手动实现自动微分与神经网络）.md) — 从零手写自动微分引擎，理解神经网络底层原理
+- [micrograd 课程笔记](深度学习与AI/micrograd_课程笔记.md) — 从零手写自动微分引擎，理解神经网络底层原理
 - [makemore 课程笔记](深度学习与AI/makemore_课程笔记.md) — Bigram 字符级语言模型，统计法 + 神经网络法实现名字生成
 
 ### 学习规划
