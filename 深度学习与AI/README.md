@@ -8,7 +8,7 @@ Karpathy 的 [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) 课�
 深度学习与AI/
 ├── README.md                           # 本文件
 └── nn-zero-to-hero/                    # 课程主目录
-    ├── 课程大纲.md                     # 完整课程索引与视频链接
+    ├── 课程大纲.md                     # 完整课程索引与视频链接 (全 10 讲)
     ├── lectures/                       # 官方原始代码 (git 同步)
     │   ├── micrograd/                 # Lecture 1: 反向传播基础
     │   └── makemore/                  # Lecture 2-6: 语言模型
@@ -30,5 +30,5 @@ Karpathy 的 [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) 课�
 
 ## 课程资源
 
-- [课程大纲与视频链接](nn-zero-to-hero/课程大纲.md) - 完整的 8 讲课程索引
+- [课程大纲与视频链接](nn-zero-to-hero/课程大纲.md) - 完整的 10 讲课程索引
 - [官方仓库](https://github.com/karpathy/nn-zero-to-hero) - 可 git pull 更新
