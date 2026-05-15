@@ -13,6 +13,7 @@ Karpathy 的 [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) 课�
     │   ├── micrograd/                 # Lecture 1: 反向传播基础
     │   └── makemore/                  # Lecture 2-6: 语言模型
     ├── 笔记/                           # 个人学习笔记
+    ├── 字幕/                           # 课程视频字幕 (全 10 讲)
     └── 参考资料/                       # 配套项目源码
         └── makemore/                  # makemore 完整项目
 ```
